@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test_gh_miles/static/css/main.4400b7f7.css",
+    "main.js": "/test_gh_miles/static/js/main.c201f2b4.js",
+    "static/js/787.a2cb61a6.chunk.js": "/test_gh_miles/static/js/787.a2cb61a6.chunk.js",
+    "static/media/gamejunkee-screenshot.png": "/test_gh_miles/static/media/gamejunkee-screenshot.5f65e8192f8cece6e60a.png",
+    "static/media/weather-app-screenshot.png": "/test_gh_miles/static/media/weather-app-screenshot.d787389c8cef922a0f6f.png",
+    "static/media/day-planner-screenshot.png": "/test_gh_miles/static/media/day-planner-screenshot.ae59776ea4c56ac6cf74.png",
+    "static/media/muvd-screenshot.png": "/test_gh_miles/static/media/muvd-screenshot.29b92fc2f4ace522af4d.png",
+    "static/media/it_me.jpg": "/test_gh_miles/static/media/it_me.20211ecb06c5c34dedb1.jpg",
+    "static/media/miles-moss-resume.pdf": "/test_gh_miles/static/media/miles-moss-resume.f065dfd9bacc409e10f3.pdf",
+    "index.html": "/test_gh_miles/index.html",
+    "main.4400b7f7.css.map": "/test_gh_miles/static/css/main.4400b7f7.css.map",
+    "main.c201f2b4.js.map": "/test_gh_miles/static/js/main.c201f2b4.js.map",
+    "787.a2cb61a6.chunk.js.map": "/test_gh_miles/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4400b7f7.css",
+    "static/js/main.c201f2b4.js"
+  ]
+}
